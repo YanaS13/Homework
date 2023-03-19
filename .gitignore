@@ -1,2 +1,4 @@
  #Ignore all target directories
+ 
+git rm -r --cached target
 target/
